@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DatabaseInsertView</string>
+
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="insert">Insert</string>
+    <string name="view">View Specific Data</string>
+    <string name="viewAll">View All Data</string>
+    <string name="alladata">VIEW DATA ON DATABASE</string>
+    <string name="search">Search</string>
+    <string name="found">FOUND!!</string>
+
+</resources>
